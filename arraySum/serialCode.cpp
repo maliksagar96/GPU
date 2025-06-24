@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-  size_t N = 500000000; // 500 million elements
+  size_t N = 5000000; // 500 million elements
   vector<float> a(N, 0), b(N, 0), c(N, 0);
 
   srand(42);  // fixed seed for reproducibility
@@ -28,9 +28,9 @@ int main() {
   }
 
   // Print first 10 results
-  for (int i = 0; i < 10; i++) {
-    cout << c[i] << endl;
-  }
+  // for (int i = 0; i < 10; i++) {
+  //   cout << c[i] << endl;
+  // }
 
   return 0;
 }

@@ -1,0 +1,1 @@
+nvc++   -acc -Minfo=accel   CMakeFiles/vector_sum.dir/main.cpp.o  -o vector_sum 

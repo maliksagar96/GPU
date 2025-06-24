@@ -1,0 +1,3 @@
+/mnt/c/github/GPU/arraySum/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/github/GPU/arraySum/build/CMakeFiles/edit_cache.dir
+/mnt/c/github/GPU/arraySum/build/CMakeFiles/vector_sum.dir
