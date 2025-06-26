@@ -1,12 +1,6 @@
 /**
 
-This is a simple code to calculate the dot product of the two N dimensional vectors. 
-I am not seeing any performance increase in the program. 
-It a simple code to see the use of the reduction clause. 
-
-I guess the performance increase is not so much because of the memory copy overhead. 
-
-*/
+**/
 
 
 #include <iostream>
